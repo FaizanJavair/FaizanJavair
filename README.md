@@ -43,5 +43,11 @@ Here are some ideas to get you started:
   - React
   - Postgres
 
-### 🤔 I am looking for work in Front-end web development field because making a great UI is what really inspires me alot and am open to any projects you want me to work on.
+### 💼 I am looking for work in Front-end web development field because making a great UI is what really inspires me alot and am open to any projects you want me to work on.
+
+### 📧 Contact me at:
+  - faizanjavair@gmail.com
+  - Or reach me on twitter at @faizanjavair
+
+
 
