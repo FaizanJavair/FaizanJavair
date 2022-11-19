@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   - p5.js
   - Bootstrap
   - Tailwind CSS
+  - C++
   
 ### 🔭 I am currently working on: 
   - 👨‍💻Using Django to create websites as part of my on-going university project. 
