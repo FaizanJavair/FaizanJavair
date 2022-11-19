@@ -45,6 +45,11 @@ Here are some ideas to get you started:
   - React
   - Postgres
 
+### 🦾 Current Projects in the repository are:
+  - FRND's Social Media Website
+  - Smart Devices Simple Web app
+  - Simple Blogging website
+
 ### 💼 I am looking for work in Front-end web development field because making a great UI is what really inspires me alot and am open to any projects you want me to work on.
 
 ### 📧 Contact me at:
