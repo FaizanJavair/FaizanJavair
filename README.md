@@ -31,6 +31,8 @@ Here are some ideas to get you started:
   - Express
   - EJS
   - p5.js
+  - Bootstrap
+  - Tailwind CSS
   
 ### 🔭 I am currently working on: 
   - 👨‍💻Using Django to create websites as part of my on-going university project. 
