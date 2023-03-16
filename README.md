@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   - JS
   - Node.js
   - Python
+  - Django Framework
   - Express
   - EJS
   - p5.js
@@ -50,6 +51,8 @@ Here are some ideas to get you started:
   - FRND's Social Media Website
   - Smart Devices Simple Web app
   - Simple Blogging website
+  - Socializze (A social media application made using Django)
+  - Weather Forecast Application
 
 ### 💼 I am looking for work in Front-end web development field because making a great UI is what really inspires me alot and am open to any projects you want me to work on.
 
