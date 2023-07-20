@@ -29,23 +29,27 @@ Here are some ideas to get you started:
   - Node.js
   - Python
   - Django Framework
+  - Natural Language Processing
   - Express
   - EJS
   - p5.js
   - Bootstrap
   - Tailwind CSS
   - C++
+  - C#
+  - Unity
   
 ### 🔭 I am currently working on: 
-  - 👨‍💻Using Django to create websites as part of my on-going university project. 
-  - 📱Using React Native to build mobile apps 
-  - 📊While Also working MySQL, and PostGres to work on my SQL Knowledge.
+  - 👨‍💻Using Unity to create a multi-level game with a team of 5 people. 
+  - 📱Using React Native to build a Task Manager application. 
+  - 📊While Also working on DevOps and doing a thorough DevOps course.
   
 ### 🌱 I am currently learning:
-  - Django
-  - React Native
-  - React
-  - Postgres
+  - C#
+  - Unity
+  - Linux
+  - Containerization
+  - DevOps
 
 ### 🦾 Current Projects in the repository are:
   - FRND's Social Media Website
@@ -53,6 +57,7 @@ Here are some ideas to get you started:
   - Simple Blogging website
   - Socializze (A social media application made using Django)
   - Weather Forecast Application
+  - TickTrack (A task manager Application)
 
 ### 💼 I am looking for work in Front-end web development field because making a great UI is what really inspires me alot and am open to any projects you want me to work on.
 
