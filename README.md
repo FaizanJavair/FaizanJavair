@@ -47,7 +47,7 @@ Agile · TDD · UX Design · Event Storming · Kanban
 ---
 
 ## 📊 GitHub Stats
-![Faizan's GitHub stats](https://github-readme-stats-green-nine-drg24bnjrc.vercel.app/api?username=faizanjavair&show_icons=true&theme=gruvbox)
+![Faizan's GitHub stats](https://github-readme-stats-green-nine-drg24bnjrc.vercel.app/api?username=faizanjavair&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats-green-nine-drg24bnjrc.vercel.app/api/top-langs/?username=faizanjavair&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
