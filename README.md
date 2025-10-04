@@ -1,69 +1,69 @@
-# Hello There!👋
-
 <!--
-**FaizanJavair/FaizanJavair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Credits and references used in this README:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+1) Layout ideas and section inspiration:
+   https://github.com/abhisheknaiidu/awesome-github-profile-readme
+2) Skill icons (SVG badges):
+   https://github.com/tandpfun/skill-icons
+3) GitHub stats card:
+   https://github.com/anuraghazra/github-readme-stats
 -->
 
-## 👨‍🎓I am a student at University of London currently at my Last year of the Degree doing Computer Science with academic direction from Goldsmiths University.
+# 🐐 Hey, I’m Faizan Javair
+**`Software Developer & Creative Technologist`**
 
-### 💖I have a great interest in: 
-  - Web development 
-  - Mobile Development
-  - And Artificial Intelligence.
-  
-### 🗣️The Languages and Technologies I often work with:
-  - HTML
-  - CSS
-  - JS
-  - Node.js
-  - Python
-  - Django Framework
-  - Natural Language Processing
-  - Express
-  - EJS
-  - p5.js
-  - Bootstrap
-  - Tailwind CSS
-  - C++
-  - C#
-  - Unity
-  
-### 🔭 I am currently working on: 
-  - 👨‍💻Using Unity to create a multi-level game with a team of 5 people. 
-  - 📱Using React Native to build a Task Manager application. 
-  - 📊While Also working on DevOps and doing a thorough DevOps course.
-  
-### 🌱 I am currently learning:
-  - C#
-  - Unity
-  - Linux
-  - Containerization
-  - DevOps
+---
 
-### 🦾 Current Projects in the repository are:
-  - FRND's Social Media Website
-  - Smart Devices Simple Web app
-  - Simple Blogging website
-  - Socializze (A social media application made using Django)
-  - Weather Forecast Application
-  - TickTrack (A task manager Application)
+## 🧠 About Me
+- Frontend & Mobile Application Developer focused on **React**, **React Native**, and **Web3 DApps**.  
+- Currently pursuing an **MSc in Computer Science** at **Georgia Institute of Technology (OMSCS)**.  
+- Previously earned **First Class Honors** in **BSc Computer Science** from the **University of London**.  
+- Passionate about **Human–Computer Interaction (HCI)** and **Artificial Intelligence**, I enjoy transforming user-focused designs into functional, elegant, and performant interfaces.  
+- I collaborate closely with cross-functional teams to convert **UI/UX prototypes into production-ready applications**, ensuring smooth integration and user-centered design throughout.  
+- I also run a **YouTube channel with 2K+ subscribers and 300K+ views**, where I share insights on tech, design, and productivity.  
 
-### 💼 I am looking for work in Front-end web development field because making a great UI is what really inspires me alot and am open to any projects you want me to work on.
+## 🧩 Currently Working At
 
-### 📧 Contact me at:
-  - faizanjavair@gmail.com
-  - Or reach me on twitter at @faizanjavair
+### 💻 TechThree — *Remote, Turkey*
+**Front-end & Mobile App Developer | July 2024 – Present**
+- Built **4+ DApps** using React and React Native Expo with **90% shared code** across platforms.  
+- Integrated **Wagmi** and **Connect Wallet**, enabling multi-chain payments.  
+- Collaborated with backend teams to integrate APIs and smart contracts, improving delivery speed by **15%**.  
+- Conducted QA-driven testing, resolving **98% of critical bugs pre-launch**.  
+- Collected and acted on community feedback monthly, fixing **50+ high-impact bugs**.  
 
+**Creative Designer | November 2024 – Present**
+- Designed **15+ Figma prototypes** for new DApp features, boosting retention by **20%**.  
+- Created consistent brand visuals and community posts (3–5 weekly), growing engagement **30% month-over-month**.  
 
+## ⚙️ Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=javascript,python,react,nextjs,typescript,django,nodejs,git,figma&theme=light)](https://skillicons.dev)
+
+**Also experienced with:**  
+SQL (PostgreSQL, MySQL) · CI/CD (GitHub Actions, GitLab) ·  
+Agile · TDD · UX Design · Event Storming · Kanban
+
+---
+
+## 📊 GitHub Stats
+![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanjavair&show_icons=true&theme=gruvbox)
+
+---
+
+## 🔗 Links
+
+- [**Portfolio**](https://faizanjavair.netlify.app/)  
+- [**LinkedIn**](https://www.linkedin.com/in/faizan-j-827a2a146/)  
+- [**GitHub**](https://github.com/faizanjavair)  
+- [**Email**](mailto:faizanjavair@gmail.com)
+
+<a href="https://linkedin.com/in/faizanjavair" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
+</a>
+<a href="https://instagram.com/faizanjavair" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" />
+</a>
+<a href="https://www.youtube.com/@FaizanJavair" target="_blank">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/e94212a487d744cb75e75241cb93716836b2d1e2/images/svg/youtube.svg" alt="YouTube" width="40" height="40" />
+</a>
