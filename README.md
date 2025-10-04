@@ -9,12 +9,14 @@ Credits and references used in this README:
    https://github.com/anuraghazra/github-readme-stats
 -->
 
-# 🐐 Hey, I’m Faizan Javair
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">Faizan Javair</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+
 **`Software Developer & Creative Technologist`**
 
 ---
 
-## 🧠 About Me
+## 🧠 About me
 - Frontend & Mobile Application Developer focused on **React**, **React Native**, and **Web3 DApps**.  
 - Currently pursuing an **MSc in Computer Science** at **Georgia Institute of Technology (OMSCS)**.  
 - Previously earned **First Class Honors** in **BSc Computer Science** from the **University of London**.  
@@ -67,3 +69,7 @@ Agile · TDD · UX Design · Event Storming · Kanban
 <a href="https://www.youtube.com/@FaizanJavair" target="_blank">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/e94212a487d744cb75e75241cb93716836b2d1e2/images/svg/youtube.svg" alt="YouTube" width="40" height="40" />
 </a>
+
+<!-- TYPING DATA -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Thank+you+for+reading;Lets+build+great+products+together!)
+
